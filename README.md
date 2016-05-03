@@ -1,4 +1,4 @@
-# EMBL course: Introduction to Python
+# Introduction to Python, EMBL course
 
 ## Day 3: functions & modules
 
